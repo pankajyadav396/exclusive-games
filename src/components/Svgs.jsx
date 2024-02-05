@@ -149,7 +149,7 @@ export default Tiksvg
 
 export const Box3elipse = () => {
     return (
-        <span>
+        <span className="max-md:hidden">
             <svg width="424" height="424" viewBox="0 0 424 424" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g filter="url(#filter0_f_268_15938)">
                     <circle cx="212" cy="212" r="81" fill="url(#paint0_linear_268_15938)" />

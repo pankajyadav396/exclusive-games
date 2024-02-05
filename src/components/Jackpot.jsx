@@ -19,7 +19,7 @@ const Jackpot = () => {
     return (
         <>
             <div className='bg-[url(./assets/images/greenlayer.webp)] bg-cover bg-no-repeat bg-100 bg-center pt-[170px] pb-[100px] relative mt-[-190px] z-[1]'>
-                <img src={ellipse1} alt='image' className='z-[-1] animate-pulse absolute top-[-30%] '></img>
+                <img src={ellipse1} alt='image' className='z-[-1] animate-pulse absolute top-[-30%] max-md:hidden'></img>
                 <img src={ellipse2} alt='image' className='z-[-1] animate-pulse absolute bottom-[-20%] right-0'></img>
                 <div className=' px-3 mx-auto max-w-[1140px] mt-[90px]'>
                     <div className='flex flex-row flex-wrap -mx-3 justify-center items-center'>

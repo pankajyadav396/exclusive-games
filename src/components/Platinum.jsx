@@ -9,7 +9,7 @@ const Platinum = () => {
         <>
             <div className='px-4 relative'>
                 <img src={ellipse2} alt='image' className='z-[-1] animate-pulse absolute bottom-[-130%] right-0'></img>
-                <img src={ellipse1} alt='image' className='z-[-1] animate-pulse absolute bottom-[0%] left-[-10%]'></img>
+                <img src={ellipse1} alt='image' className='z-[-1] animate-pulse absolute bottom-[0%] left-[-10%]  max-md:hidden'></img>
                 <div className=' container bg-[#062023] mt-[64px] sm:py-[50px] py-[40px] md:py-[78px] px-[45px] rounded-[16px] border-[0.5px] border-[#828F91]'>
                     <div className="row flex-col-reverse md:flex-row">
                         <div className="  w-full md:w-1/2 my-auto px-3">

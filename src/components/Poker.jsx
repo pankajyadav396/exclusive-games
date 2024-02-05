@@ -10,9 +10,9 @@ const Poker = () => {
         <>
             <div className='relative'>
                 <img src={ellipse2} alt='image' className='z-[-1] animate-pulse absolute bottom-[-80%] right-0'></img>
-                <img src={ellipse1} alt='image' className='z-[-1] animate-pulse absolute bottom-[0%] left-[-10%]'></img>
+                <img src={ellipse1} alt='image' className='z-[-1] animate-pulse absolute bottom-[0%] left-[-10%] max-md:hidden'></img>
                 <div className='container pt-[74px] pb-[100px] relative'>
-                    <img src={ellipse3} alt='image' className='z-[-1] animate-pulse absolute bottom-[36%] top-45% left-[33%] right-[60%]'></img>
+                    <img src={ellipse3} alt='image' className='z-[-1] max-sm:hidden animate-pulse absolute bottom-[36%] top-45% left-[33%] right-[60%]'></img>
                     <div className='row'>
                         <div className='w-1/2 max-lg:w-full max-lg:flex max-lg:flex-col max-lg:items-center pl-3 pr-8'>
                             <img src={PokerImg} alt="poker" className='max-w-[538px] w-full' />
