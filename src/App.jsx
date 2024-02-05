@@ -13,11 +13,13 @@ import Footer from './components/Footer'
 import Barjuaa from './components/Barjuaa'
 import Accordian from './components/Accordian'
 import Preloader from './components/Preloader'
+import Backtotop from './components/Backtotop'
 
 function App() {
   return (
     <>
       <Preloader />
+      <Backtotop />
       <Header />
       <Poker />
       <Timelineslotcommonsection />

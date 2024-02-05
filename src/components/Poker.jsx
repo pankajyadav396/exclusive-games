@@ -5,6 +5,7 @@ import { Linkbtn } from './Svgs'
 import ellipse2 from '../assets/images/jackpotbottomlight.png'
 import ellipse1 from '../assets/images/jackpottoplight.png'
 import ellipse3 from '../assets/images/pokercenterlight.png'
+
 const Poker = () => {
     return (
         <>
