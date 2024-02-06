@@ -21,7 +21,7 @@ const Accordian = () => {
     return (
         <>
             <div className='relative z-1 max-sm:mt-[-60px]'>
-                <div className='w-[240px] z-[-1] h-[240px] rounded-[100%] opacity-[50%] left-[-142px] bg-gradient-to-tl from-[#51C8EF] to-[#7AF57A] absolute top-0 filtur-blur'></div>
+                <div className='w-[240px] z-[-1] h-[240px] animate-pulse rounded-[100%] opacity-[50%] left-[-142px] bg-gradient-to-tl from-[#51C8EF] to-[#7AF57A] absolute top-0 filtur-blur'></div>
                 <div className='max-w-[970px] mx-auto px-3'>
                     <div className='py-[150px]'>
                         <h2 className='text-[27px] sm:text-[48px] font-[Anton] leading-[120%] font-normal text-center pb-[60px] text-white'>Preguntas más frecuentes</h2>

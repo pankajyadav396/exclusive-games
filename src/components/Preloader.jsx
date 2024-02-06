@@ -4,7 +4,7 @@ const Preloader = () => {
     useEffect(() => {
         setTimeout(() => {
             setloader(false);
-        }, 3500);
+        }, 3100);
     }, []);
     {
         if (loder === true) {
@@ -20,10 +20,22 @@ const Preloader = () => {
                     style={{ zIndex: "100" }}
                     className="bg-[black] top-0 start-0 fixed h-full w-full flex flex-col justify-center items-center"
                 >
-                    <div className="div">
-                        <p id="h2">Loading....<span id="lol"></span></p>
+                    <div class="loader">
+                        <span className="span1">E</span>
+                        <span className="span1">X</span>
+                        <span className="span1">C</span>
+                        <span className="span1">L</span>
+                        <span className="span1">U</span>
+                        <span className="span1">S</span>
+                        <span className="span1">I</span>
+                        <span className="span1">V</span>
+                        <span className="span1">E</span>
+                        <span className="span2">G</span>
+                        <span className="span2">A</span>
+                        <span className="span2">M</span>
+                        <span className="span2">E</span>
+                        <span className="span2">S</span>
                     </div>
-                    <h1 className="text-white mt-[60px] text-[50px] font-inter font-bold max-sm:text-[35px]">Exclusive <span className=" text-[#51d613]">Games</span></h1>
                 </section>
             ) : (
                 ""

@@ -57,8 +57,8 @@ const Jackpot = () => {
                     <p className=' font-anton font-normal max-w-[520px] text-[48px] text-center leading-[57.6px] text-white'>
                         lanza tu propia plataforma en sólo 2 semanas
                     </p>
-                    <img src={layer1} alt="layer" className='absolute left-0 z-[-1]' />
-                    <img src={layer2} alt="layer" className='absolute right-0 z-[-1]' />
+                    <img src={layer1} alt="layer" className='absolute left-0 z-[-1] opacity-30' />
+                    <img src={layer2} alt="layer" className='absolute right-0 z-[-1] opacity-30' />
                 </div>
                 <div className=' mx-auto container  max-w-[1140px] mt-[80px] sm:mt-[135px] px-3'>
                     <p className='text-white text-xl sm:text-[48px] leading-[57.6px] font-anton text-center font-[400]'>Juegos en vivo</p>
