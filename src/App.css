@@ -35,7 +35,9 @@
     transition: all 0.5s;
     letter-spacing: 0.2em;
 }
-
+.bg-luxury{
+   background-image: url("./assets/images/luxurybg-img.webp");
+}
 @keyframes blur {
 
     0%,

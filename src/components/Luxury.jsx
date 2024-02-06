@@ -9,7 +9,7 @@ const Luxury = () => {
     return (
         <>
             <div className='px-3'>
-                <div className='container relative z-[1] border-[1px] bg-[#062027] border-[#849191] bg-[url(../assets/images/luxurybg-img.webp)] py-[60px] mt-[60px] rounded-[16px]'>
+                <div className='container relative z-[1] border-[1px] bg-[#062023] border-[#849191] bg-luxury bg-cover bg-no-repeat bg-center py-[60px] mt-[60px] rounded-[16px]'>
                     <div className='flex items-center justify-center flex-col'>
                         <p className='text-white text-[24px] sm:text-[32px] leading-[57.6px] mb-[16px] font-normal text-nowrap max-xl:text-[38px] font-anton'>Luxury</p>
                         <p className='text-white text-center max-sm:text-[13px] sm:text-[16px] max-w-[401px] leading-[25.6px] mb-[24px] font-medium font-inter'>lleva tu experiencia de juego al siguiente nivel. Con todas las características de la versión Silver y la potencia adicional de la tecnología React .</p>
