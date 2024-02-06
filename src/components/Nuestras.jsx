@@ -1,6 +1,6 @@
 import React from 'react'
 import ghar from '../assets/images/gharjuaaimg.webp'
-import ghar1 from '../assets/images/gharjualight.png'
+import ghar1 from '../assets/images/gharjualight.webp'
 import Common from "./Common.jsx";
 import Tiksvg from './Svgs.jsx'
 const Nuestras = () => {

@@ -1,7 +1,7 @@
 import React from 'react'
 import Common2 from './Common2'
-import img1 from "../assets/images/lanzaleft.png"
-import img2 from "../assets/images/lanzaright.png"
+import img1 from "../assets/images/lanzaleft.webp"
+import img2 from "../assets/images/lanzaright.webp"
 const Lanzameer = () => {
     return (
         <>

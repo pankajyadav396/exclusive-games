@@ -2,9 +2,9 @@ import React from 'react'
 import PokerImg from '../assets/images/poker.webp'
 import Aviator from '../assets/images/aviater.webp'
 import { Linkbtn } from './Svgs'
-import ellipse2 from '../assets/images/jackpotbottomlight.png'
-import ellipse1 from '../assets/images/jackpottoplight.png'
-import ellipse3 from '../assets/images/pokercenterlight.png'
+import ellipse2 from '../assets/images/jackpotbottomlight.webp'
+import ellipse1 from '../assets/images/jackpottoplight.webp'
+import ellipse3 from '../assets/images/pokercenterlight.webp'
 
 const Poker = () => {
     return (

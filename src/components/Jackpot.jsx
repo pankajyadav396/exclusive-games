@@ -6,8 +6,8 @@ import layer2 from '../assets/images/lanzalayer2.webp'
 import map1 from '../assets/images/vivo1.webp'
 import map2 from '../assets/images/vivo2.webp'
 import map3 from '../assets/images/vivo3.webp'
-import ellipse1 from '../assets/images/jackpottoplight.png'
-import ellipse2 from '../assets/images/jackpotbottomlight.png'
+import ellipse1 from '../assets/images/jackpottoplight.webp'
+import ellipse2 from '../assets/images/jackpotbottomlight.webp'
 import Common from "./Common.jsx";
 
 const Jackpot = () => {

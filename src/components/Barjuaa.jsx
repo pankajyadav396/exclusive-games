@@ -3,9 +3,9 @@ import img777 from '../assets/images/777bar-juaa-img.webp'
 import img1 from '../assets/images/img-bulb.webp'
 import img2 from '../assets/images/3peopleheadstar.webp'
 import img3 from '../assets/images/eurodollarpound.webp'
-import img4 from '../assets/images/Ellipse-jua-right.png'
-import ellipse1 from '../assets/images/barjuatop.png'
-import ellipse2 from '../assets/images/barjuatop.png'
+import img4 from '../assets/images/Ellipse-jua-right.webp'
+import ellipse1 from '../assets/images/barjuatop.webp'
+import ellipse2 from '../assets/images/barjuatop.webp'
 
 const Barjuaa = () => {
     return (

@@ -4,7 +4,7 @@ const Preloader = () => {
     useEffect(() => {
         setTimeout(() => {
             setloader(false);
-        }, 3100);
+        }, 2500);
     }, []);
     {
         if (loder === true) {

@@ -2,8 +2,8 @@ import Common from './Common'
 import { Tiksvg } from './Svgs'
 import Box3img from "../assets/images/box-3img.webp"
 import { Box3elipse } from './Svgs'
-import ellipse1 from '../assets/images/jackpottoplight.png'
-import ellipse2 from '../assets/images/jackpotbottomlight.png'
+import ellipse1 from '../assets/images/jackpottoplight.webp'
+import ellipse2 from '../assets/images/jackpotbottomlight.webp'
 const Platinum = () => {
     return (
         <>
