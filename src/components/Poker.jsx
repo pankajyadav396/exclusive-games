@@ -20,7 +20,7 @@ const Poker = () => {
                             <h2 className='pt-[60px] font-[Anton] font-normal text-[48px] text-[#FFFFFF]'>Nuestra Visión</h2>
                             <p className='pt-4 max-lg:text-center text-[#CCD0D2] font-[Inter] font-medium text-[16px] max-w-[444px]'>Nuestra visión es ser líderes indiscutibles en la industria de los juegos de azar y llevar nuestra pasión por el entretenimiento más allá de las fronteras. Imagina un mundo donde la emoción y la diversión no tengan límites, y ese es el mundo que queremos crear contigo.</p>
                             <div className='pt-6' >
-                                <a href="#" className=' inline-block'><Linkbtn /></a>
+                                <p className='cursor-pointer inline-block'><Linkbtn /></p>
                             </div>
                         </div>
                         <div className='w-1/2 max-lg:w-full max-lg:flex max-lg:flex-col-reverse max-lg:items-center lg:pr-3 px-3 lg:pl-8'>
@@ -28,7 +28,7 @@ const Poker = () => {
                                 <h2 className='font-[Anton] font-normal text-[48px] text-[#FFFFFF]'>Nuestra Misión</h2>
                                 <p className='max-lg:text-center pt-4 text-[#CCD0D2] font-[Inter] font-medium text-[16px] max-w-[444px]'>Nuestra misión es simple pero poderosa: proporcionarte la más amplia gama de soluciones de entretenimiento de alta calidad y rentabilidad. Estamos comprometidos a elevar tus expectativas y brindarte experiencias inigualables.</p>
                                 <div className='pt-6' >
-                                    <a href="#" className='inline-block'><Linkbtn /></a>
+                                    <p className='cursor-pointer inline-block'><Linkbtn /></p>
                                 </div>
                             </div>
                             <div>

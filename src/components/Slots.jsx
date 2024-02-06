@@ -35,7 +35,7 @@ const Slots = () => {
                         ))}
                     </div>
                     <div className="justify-center flex">
-                        <div className="pb-5">
+                        <div className="pb-5 relative z-[1]">
                             <Common2 text="Mostrar más" />
                         </div>
                     </div>

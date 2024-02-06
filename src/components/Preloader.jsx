@@ -20,7 +20,7 @@ const Preloader = () => {
                     style={{ zIndex: "100" }}
                     className="bg-[black] top-0 start-0 fixed h-full w-full flex flex-col justify-center items-center"
                 >
-                    <div class="loader">
+                    <div className="loader">
                         <span className="span1 text-[25px] sm:text-[52px]">E</span>
                         <span className="span1 text-[25px] sm:text-[52px]">X</span>
                         <span className="span1 text-[25px] sm:text-[52px]">C</span>
