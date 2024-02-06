@@ -13,12 +13,12 @@ const Platinum = () => {
                 <div className=' container bg-[#062023] mt-[64px] sm:py-[50px] py-[40px] md:py-[78px] px-[45px] rounded-[16px] border-[0.5px] border-[#828F91]'>
                     <div className="row flex-col-reverse md:flex-row">
                         <div className="  w-full md:w-1/2 my-auto px-3">
-                            <h2 className=' fonnt-["anton"] font-normal text-[32px] leading-10 text-[#FFFFFF]'>Platinum</h2>
-                            <p className=' fonnt-["inter"] font-medium text-[16px] leading-6 pt-[16px] text-[#CED4D4] max-w-[364px]'>Diseño totalmente personalizado. Contáctanos para un presupuesto.</p>
-                            <h2 className=' fonnt-["anton"] font-normal md:text-[40px] sm:text-[35px] text-[30px] lg:text-[48px] text-[#FFFFFF] pt-[15px]'>Consultar precio</h2>
+                            <h2 className=' font-anton font-normal text-[32px] leading-10 text-[#FFFFFF]'>Platinum</h2>
+                            <p className=' font-inter font-medium text-[16px] leading-6 pt-[16px] text-[#CED4D4] max-w-[364px]'>Diseño totalmente personalizado. Contáctanos para un presupuesto.</p>
+                            <h2 className=' font-anton font-normal md:text-[40px] sm:text-[35px] text-[30px] lg:text-[48px] text-[#FFFFFF] pt-[15px]'>Consultar precio</h2>
                             <div className=' flex  items-center pb-10 pt-[10px]'>
                                 <span><Tiksvg /></span>
-                                <p className=' fonnt-["inter"] font-normal text-[16px] text-[#CED4D4]'>Personalizable </p>
+                                <p className=' font-inter font-normal text-[16px] text-[#CED4D4]'>Personalizable </p>
                             </div>
                             <Common text="Comprar ahora" />
                         </div>

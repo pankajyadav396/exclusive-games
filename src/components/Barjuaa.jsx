@@ -15,7 +15,7 @@ const Barjuaa = () => {
                 <img src={img4} alt="img" className='z-[-1] right-0 absolute top-0 animate-pulse' />
                 <div className='container mt-[100px]'>
                     <div className='row items-center justify-center'>
-                        <div className='md:w-1/2 px-3'>
+                        <div className='md:w-1/2 px-3 max-md:mb-6'>
                             <img src={img777} alt="img" className='w-full max-w-[558px]' />
                         </div>
                         <div className='md:w-1/2 px-3 h-full'>
