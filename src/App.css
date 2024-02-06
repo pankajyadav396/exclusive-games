@@ -17,7 +17,6 @@
 }
 
 .loader .span1 {
-    font-size: 52px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
@@ -28,7 +27,6 @@
 }
 
 .loader .span2 {
-    font-size: 52px;
     color: #51d613;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 900;

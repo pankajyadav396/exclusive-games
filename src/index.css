@@ -8,7 +8,7 @@
     }
 
     .mobileView {
-        @apply max-lg:flex-col max-lg:bg-black max-lg:z-30 max-lg:w-full max-lg:h-screen max-lg:justify-center max-lg:items-center max-lg:fixed max-lg:top-0 max-lg:left-[-100%];
+        @apply max-lg:flex-col max-lg:bg-[#000000f1] max-lg:z-30 max-lg:w-full max-lg:h-screen max-lg:justify-center max-lg:items-center max-lg:fixed max-lg:top-0 max-lg:left-[-100%];
     }
 
     .row {

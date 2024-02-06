@@ -21,20 +21,20 @@ const Preloader = () => {
                     className="bg-[black] top-0 start-0 fixed h-full w-full flex flex-col justify-center items-center"
                 >
                     <div class="loader">
-                        <span className="span1">E</span>
-                        <span className="span1">X</span>
-                        <span className="span1">C</span>
-                        <span className="span1">L</span>
-                        <span className="span1">U</span>
-                        <span className="span1">S</span>
-                        <span className="span1">I</span>
-                        <span className="span1">V</span>
-                        <span className="span1">E</span>
-                        <span className="span2">G</span>
-                        <span className="span2">A</span>
-                        <span className="span2">M</span>
-                        <span className="span2">E</span>
-                        <span className="span2">S</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">E</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">X</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">C</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">L</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">U</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">S</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">I</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">V</span>
+                        <span className="span1 text-[25px] sm:text-[52px]">E</span>
+                        <span className="span2 text-[25px] sm:text-[52px]">G</span>
+                        <span className="span2 text-[25px] sm:text-[52px]">A</span>
+                        <span className="span2 text-[25px] sm:text-[52px]">M</span>
+                        <span className="span2 text-[25px] sm:text-[52px]">E</span>
+                        <span className="span2 text-[25px] sm:text-[52px]">S</span>
                     </div>
                 </section>
             ) : (
