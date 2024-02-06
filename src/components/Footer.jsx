@@ -5,7 +5,7 @@ import { Email, Insta, Phone, Fb, Twitter, Footerleft, Footerright } from './Svg
 const Footer = () => {
     return (
         <>
-            <div className='bg-[#000000] py-4 relative overflow-hidden' >
+            <div className='bg-[#000000] py-4 relative overflow-hidden' id='contact'>
                 <span className=' absolute bottom-0'><Footerleft /></span>
                 <span className=' absolute end-0 top-50'><Footerright /></span>
                 <div className=' max-w-[1160px] container mx-auto px-3 relative'>

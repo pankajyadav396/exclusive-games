@@ -5,7 +5,7 @@ import img2 from "../assets/images/lanzaright.webp"
 const Lanzameer = () => {
     return (
         <>
-            <div className='md:pb-[150px] sm:pb-[100px] pb-[70px] max-sm:mt-[-70px] sm:px-5 px-3'>
+            <div className='md:pb-[150px] sm:pb-[100px] pb-[70px] max-sm:mt-[-70px] sm:px-5 px-3' id='about'>
                 <div className=' max-w-[1140px] relative overflow-hidden bg-cover bg-[#061e26] bg-center bg-no-repeat container mx-auto px-3 sm:py-[70px] py-[40px] md:py-[100px] border-[0.5px] rounded-[12px] border-[#829092]'>
                     <div className='relative z-[1]' >
                         <h2 className='font-["anton"] font-normal sm:text-[27px] text-[24px] md:text-[32px]  leading-10  text-[#FFFFFF] pt-[10px] text-center'>Lanza tu propia plataforma en sólo 2 semanas</h2>

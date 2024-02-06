@@ -23,11 +23,11 @@ const Navbar = () => {
                     </div>
                     <ul className={`${nav ? "left-0" : "left-[-100%]"
                         } flex items-center gap-[28px] mobileView duration-300`}>
-                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#">Hogar</a></li>
-                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#">Misión</a></li>
-                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#">Tragamonedas</a></li>
-                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#">Por qué elegirnos</a></li>
-                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#">Ofertas</a></li>
+                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#home">Hogar</a></li>
+                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#about">Misión</a></li>
+                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#prices">Tragamonedas</a></li>
+                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#testimonial">Por qué elegirnos</a></li>
+                        <li><a onClick={show} className='text-[16px] font-[Inter] font-medium text-[#D2D8DA] hover:text-[#FFFFFF] duration-300' href="#contact">Ofertas</a></li>
                         <li className='relative'>
                             <a className='sm:hidden' onClick={show} href="#">
                                 <Common text="Acceso" />

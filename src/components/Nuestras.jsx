@@ -6,7 +6,7 @@ import Tiksvg from './Svgs.jsx'
 const Nuestras = () => {
     return (
         <>
-            <p className='text-white text-xl sm:text-[48px] leading-[57.6px] font-anton mb-3 text-center font-[400] mt-[150px]'>Nuestras ofertas</p>
+            <p className='text-white text-xl sm:text-[48px] leading-[57.6px] font-anton mb-3 text-center font-[400] mt-[150px]' id='testimonial'>Nuestras ofertas</p>
             <p className='text-white max-sm:text-[13px] sm:text-[16px] sm max-sm:text-[13px]:sm:text-[16px] leading-[25.6px] font-inter text-center font-[500]'>Te ofrecemos las mejores experiencias de juegos para tus clientes.</p>
 
             <div className=' px-3 mx-auto max-w-[1140px] max-w-lg-mx-3 border-[#828F93] mt-[60px] border-[1px] rounded-[16px] bg-[#062027] p-[50px_40px_32px_0]'>
