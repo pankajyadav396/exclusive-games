@@ -16,7 +16,7 @@ const Platinum = () => {
                             <h2 className=' font-anton font-normal text-[32px] leading-10 text-[#FFFFFF]'>Platinum</h2>
                             <p className=' font-inter font-medium text-[16px] leading-6 pt-[16px] text-[#CED4D4] max-w-[364px]'>Diseño totalmente personalizado. Contáctanos para un presupuesto.</p>
                             <h2 className=' font-anton font-normal md:text-[40px] sm:text-[35px] text-[30px] lg:text-[48px] text-[#FFFFFF] pt-[15px]'>Consultar precio</h2>
-                            <div className=' flex  items-center pb-10 pt-[10px]'>
+                            <div className=' flex gap-2 items-center pb-10 pt-[10px]'>
                                 <span><Tiksvg /></span>
                                 <p className=' font-inter font-normal text-[16px] text-[#CED4D4]'>Personalizable </p>
                             </div>

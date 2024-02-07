@@ -17,7 +17,7 @@ const Luxury = () => {
                         <div className='max-w-[420px]'>
                             <div className='flex gap-2 mb-[20px]'>
                                 <Tiksvg className='!w-[24px]' />
-                                <p className='text-white max-w-[238px] max-w-330 text-center mx-auto max-sm:text-[13px] sm:text-[16px] leading-[25.6px] mt-[-8px] font-medium font-inter'>Disponibles Payku, Pix, Depósitos en Euros, Criptomonedas, Cargas manuales</p>
+                                <p className='text-white max-w-[238px] sm:max-w-[387px] max-w-330 text-center mx-auto max-sm:text-[13px] sm:text-[16px] leading-[25.6px] mt-[-8px] font-medium font-inter'>Disponibles Payku, Pix, Depósitos en Euros, Criptomonedas, Cargas manuales</p>
                             </div>
                             <div className='flex gap-2 mb-[20px]'>
                                 <Tiksvg className='!w-[24px]' />
@@ -25,7 +25,7 @@ const Luxury = () => {
                             </div>
                             <div className='flex gap-2 mb-[20px]'>
                                 <Tiksvg className='!w-[24px]' />
-                                <p className='text-white max-w-[238px] max-w-330 text-center mx-auto max-sm:text-[13px] sm:text-[16px] leading-[25.6px] mt-[-8px] font-medium font-inter'>Bonos Editables, Happy Hours, Jackpots, Códigos Promocionales Regalo</p>
+                                <p className='text-white max-w-[238px] sm:max-w-[388px] text-center mx-auto max-sm:text-[13px] sm:text-[16px] leading-[25.6px] mt-[-8px] font-medium font-inter'>Bonos Editables, Happy Hours, Jackpots, Códigos Promocionales Regalo</p>
                             </div>
                             <div className='flex gap-2 mb-[20px]'>
                                 <Tiksvg />

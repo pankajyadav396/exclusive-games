@@ -14,7 +14,8 @@ const Common2 = (props) => {
                             </linearGradient>
                         </defs>
                     </svg>
-                </span>{props.text}</button>
+                </span>{props.text}
+            </button>
         </>
     )
 }
